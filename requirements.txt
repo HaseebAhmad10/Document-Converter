@@ -1,0 +1,10 @@
+reportlab
+python-docx
+pdfplumber
+markdown2
+tkinter
+pdf2docx
+SpeechRecognition
+pydub
+python-pptx
+pymupdf
